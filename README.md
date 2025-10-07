@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @devikayd
-- 👀 I’m interested in app developing | web and mobile app developing ...
-- 🌱 I’m completed btech and currently learning new technologies...
-- 💞️ I’m looking to collaborate ...
-- 📫 How to reach me `devikayd@gmail.com`...
+👋 Hi, I’m @devikayd  
+🎓 MSc Data Science student | Full Stack Developer  
+💡 Passionate about building intelligent web & mobile apps  
+🌱 Currently exploring AI, data analytics, and modern frameworks  
+💞️ Open to collaborations on data-driven and innovative projects  
+📫 Reach me at: devikayd@gmail.com  
 
-<!---
-devikayd/devikayd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
